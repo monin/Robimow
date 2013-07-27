@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobiMow", "RobiMow\RobiMow.csproj", "{8A14F044-5A29-45FF-AE6B-827DEFBB27FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A14F044-5A29-45FF-AE6B-827DEFBB27FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A14F044-5A29-45FF-AE6B-827DEFBB27FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A14F044-5A29-45FF-AE6B-827DEFBB27FE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8A14F044-5A29-45FF-AE6B-827DEFBB27FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A14F044-5A29-45FF-AE6B-827DEFBB27FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A14F044-5A29-45FF-AE6B-827DEFBB27FE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
